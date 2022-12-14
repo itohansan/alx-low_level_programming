@@ -2,6 +2,7 @@
 
 /**
  * _islower - pick lowercase char
+ * @c: char to br checked
  * Return: 1 if char is lower, else return 0
  */
 int _islower(int c)
