@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /**
  * puts_half - function that prints half of a sting and a new line
  *
