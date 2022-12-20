@@ -1,17 +1,16 @@
 #include "main.h"
 
 /**
- *  main - check the code
- *  swab_int - swabs function of two integers
+ *  swap_int - swaps function of two integers
  *  @a: first integer
  *  @b: second integer
  *
  */
 void swap_int(int *a, int *b)
 {
-	int swap;
+	int c;
 
 	swap = *a;
 	*a = *b;
-	*b =swap;
+	*b = c;
 }
