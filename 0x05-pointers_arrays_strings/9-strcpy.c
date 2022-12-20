@@ -6,7 +6,8 @@
  * @src: this is the copier
  *
  * Return: this returns copy
- */char *_strcpy(char *dest, char *src)
+ */
+char *_strcpy(char *dest, char *src)
 {
 	char *start = dest;
 
